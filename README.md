@@ -3,6 +3,7 @@ UIPageScrollView
 
 Xamarin c# Paging example
 
+```cs
 public override void ViewDidLoad()
 {
     base.ViewDidLoad();
@@ -32,3 +33,4 @@ public override void ViewDidLoad()
     ScrollPageView.NumberOfPages = NumberOfImages;
    
 }
+```
